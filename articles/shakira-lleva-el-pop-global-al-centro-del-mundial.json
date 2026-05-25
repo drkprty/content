@@ -1,18 +1,25 @@
 {
   "id": "shakira-lleva-el-pop-global-al-centro-del-mundial",
-  "title": "Shakira lleva el pop global al centro del Mundial",
-  "category": "NOTICIA",
+  "shortCode": "shakira2505",
   "date": "25 MAY 2026",
+  "publishAt": "2026-05-25T17:00",
+  "createdAt": "2026-05-25T09:30:00.000Z",
+  "shortUrl": "https://drkprty.uk/go/shakira2505/",
+  "seoUrl": "https://drkprty.uk/articles/shakira-lleva-el-pop-global-al-centro-del-mundial.html",
   "read": "3 MIN DE LECTURA",
-  "author": "DRKPRTY",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/shakira-lleva-el-pop-global-al-centro-del-mundial-1779732264130.webp",
-  "excerpt": "La cantante vuelve a conectar música y futbol con una producción pensada para escala global.",
   "tags": [
     "#SHAKIRA",
     "#POPGLOBAL",
     "#MUNDIAL2026",
     "#MUSICA"
   ],
+  "author": "DRKPRTY",
+  "spotifyEmbed": "",
+  "excerpt": "La cantante vuelve a conectar música y futbol con una producción pensada para escala global.",
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/shakira-lleva-el-pop-global-al-centro-del-mundial-1779732264130.webp",
+  "quote": "Shakira entiende que un himno mundialista también se baila fuera de la cancha.",
+  "published": true,
+  "scheduled": false,
   "body": [
     "Shakira volvió a colocarse en el centro de la conversación global con una nueva producción ligada al Mundial.",
     "La artista colombiana conoce perfectamente ese territorio donde una canción deja de ser sencillo y se convierte en recuerdo colectivo.",
@@ -21,14 +28,8 @@
     "Para Shakira, este tipo de lanzamiento no solo reactiva su perfil global, también confirma su lugar como una de las figuras pop más reconocibles de la cultura deportiva.",
     "La conversación apenas empieza, pero el impacto ya está servido."
   ],
-  "quote": "Shakira entiende que un himno mundialista también se baila fuera de la cancha.",
-  "createdAt": "2026-05-25T09:30:00.000Z",
-  "publishAt": "2026-05-25T17:00",
-  "published": false,
-  "scheduled": false,
-  "spotifyEmbed": "",
-  "shortCode": "shakira2505",
-  "shortUrl": "https://drkprty.uk/go/shakira2505/",
-  "seoUrl": "https://drkprty.uk/articles/shakira-lleva-el-pop-global-al-centro-del-mundial.html",
-  "updatedAt": "2026-05-25T18:04:25.235Z"
+  "title": "Shakira lleva el pop global al centro del Mundial",
+  "category": "NOTICIA",
+  "views": 0,
+  "updatedAt": "2026-05-25T23:12:36.956Z"
 }
