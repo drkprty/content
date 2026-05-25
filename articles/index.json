@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/the-strokes-gorillaz-y-twenty-one-pilots-reactivan-la-fiebre-por-los-headliners-gigantes-1779732523918.jpg",
     "excerpt": "Los grandes nombres vuelven a dominar la conversación festivalera con propuestas que apelan a generaciones distintas.",
     "publishAt": "2026-05-26T20:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -19,8 +19,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/sub-pop-vuelve-a-sonar-fuerte-dentro-del-universo-gamer-1779732508098.jpg",
     "excerpt": "La presencia del sello en experiencias interactivas confirma que el indie sigue encontrando nuevas rutas de escucha.",
     "publishAt": "2026-05-26T18:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -31,8 +31,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes-1779732497765.jpeg",
     "excerpt": "La temporada de festivales vuelve a mezclar nostalgia dosmilera, pop y rock en carteles cada vez más híbridos.",
     "publishAt": "2026-05-26T16:30",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -43,8 +43,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/metric-y-broken-social-scene-preparan-una-noche-de-indie-canadiense-1779732483665.jxl",
     "excerpt": "Dos nombres clave del indie canadiense compartirán escenario en una combinación cargada de memoria alternativa.",
     "publishAt": "2026-05-26T15:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -55,8 +55,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/karol-g-apunta-a-una-nueva-conquista-de-estadios-1779732464609.jpeg",
     "excerpt": "La artista colombiana sigue expandiendo su dominio en vivo con shows de escala cada vez más grande.",
     "publishAt": "2026-05-26T13:30",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -67,8 +67,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/ac-dc-demuestra-que-el-rock-de-estadio-todavia-tiene-gasolina-1779732311923.webp",
     "excerpt": "La banda mantiene viva la maquinaria de riffs, volumen y nostalgia eléctrica en sus nuevas fechas.",
     "publishAt": "2026-05-26T12:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -79,8 +79,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/ariana-grande-prepara-su-regreso-a-los-escenarios-con-una-gira-masiva-1779732299930.webp",
     "excerpt": "La cantante apunta a una nueva etapa en vivo después de varios años lejos de las giras extensas.",
     "publishAt": "2026-05-26T10:30",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -91,8 +91,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/blondshell-estrena-cancion-y-refuerza-su-lado-mas-aspero-1779732287818.jpg",
     "excerpt": "El nuevo sencillo empuja su sonido hacia guitarras más pesadas y letras cargadas de tensión emocional.",
     "publishAt": "2026-05-25T20:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -103,8 +103,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/death-from-above-1979-prepara-una-gira-cargada-de-distorsion-1779732275281.jpg",
     "excerpt": "El dúo canadiense volverá a la carretera con una propuesta que sigue sonando brutalmente directa.",
     "publishAt": "2026-05-25T18:30",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -115,8 +115,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/shakira-lleva-el-pop-global-al-centro-del-mundial-1779732264130.webp",
     "excerpt": "La cantante vuelve a conectar música y futbol con una producción pensada para escala global.",
     "publishAt": "2026-05-25T17:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -127,9 +127,21 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock-1779732252975.webp",
     "excerpt": "La banda prepara una nueva tanda de shows que vuelve a conectar con la energía angular de sus primeros discos.",
     "publishAt": "2026-05-25T14:00",
-    "published": false,
-    "scheduled": false,
+    "published": "scheduled",
+    "scheduled": true,
     "createdAt": "2026-05-25T09:30:00.000Z"
+  },
+  {
+    "id": "hvob-cdmx-2026",
+    "title": "HVOB confirma presentación especial en la CDMX",
+    "category": "CONCIERTO",
+    "date": "25 MAY 2026",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/hvob-cdmx-2026-1779735092563.png",
+    "excerpt": "El dúo austriaco traerá su electrónica hipnótica a la Ciudad de México en una fecha que ya comenzó a emocionar a fans del live act.",
+    "publishAt": "2026-05-25T13:00",
+    "published": true,
+    "scheduled": false,
+    "createdAt": "2026-05-25T18:50:02.362226Z"
   },
   {
     "id": "corona-capital-2026-vuelve-a-encender-la-conversacion-festivalera",
