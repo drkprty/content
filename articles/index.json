@@ -127,8 +127,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock-1779732252975.webp",
     "excerpt": "La banda prepara una nueva tanda de shows que vuelve a conectar con la energía angular de sus primeros discos.",
     "publishAt": "2026-05-25T14:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
