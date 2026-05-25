@@ -1,18 +1,16 @@
 {
   "id": "bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock",
-  "title": "Bloc Party anuncia nuevas fechas y revive la urgencia del indie rock",
-  "category": "CONCIERTO",
-  "date": "25 MAY 2026",
   "read": "3 MIN DE LECTURA",
-  "author": "DRKPRTY",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock-1779732252975.webp",
-  "excerpt": "La banda prepara una nueva tanda de shows que vuelve a conectar con la energía angular de sus primeros discos.",
   "tags": [
     "#BLOCPARTY",
     "#INDIEROCK",
     "#TOUR",
     "#CONCIERTOS"
   ],
+  "quote": "Bloc Party todavía suena como una carrera nocturna sin frenos.",
+  "category": "CONCIERTO",
+  "shortUrl": "https://drkprty.uk/go/blocparty2505/",
+  "excerpt": "La banda prepara una nueva tanda de shows que vuelve a conectar con la energía angular de sus primeros discos.",
   "body": [
     "Bloc Party confirmó nuevas fechas en vivo y volvió a despertar esa memoria eléctrica que muchos guardan de la explosión indie de los dosmiles.",
     "La banda ha pasado por distintas etapas, pero su identidad sigue anclada en guitarras nerviosas, baterías precisas y canciones que parecen correr aunque estés quieto.",
@@ -21,14 +19,17 @@
     "La gira también podría funcionar como puente para nuevas canciones o para relecturas más maduras de su catálogo.",
     "En tiempos donde el indie volvió a mirar hacia atrás, Bloc Party tiene argumentos suficientes para recordar por qué fue tan importante."
   ],
-  "quote": "Bloc Party todavía suena como una carrera nocturna sin frenos.",
-  "createdAt": "2026-05-25T09:30:00.000Z",
-  "publishAt": "2026-05-25T14:00",
-  "published": false,
-  "scheduled": false,
-  "spotifyEmbed": "",
-  "shortCode": "blocparty2505",
-  "shortUrl": "https://drkprty.uk/go/blocparty2505/",
+  "author": "DRKPRTY",
   "seoUrl": "https://drkprty.uk/articles/bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock.html",
-  "updatedAt": "2026-05-25T18:04:14.435Z"
+  "shortCode": "blocparty2505",
+  "spotifyEmbed": "",
+  "publishAt": "2026-05-25T14:00",
+  "date": "25 MAY 2026",
+  "createdAt": "2026-05-25T09:30:00.000Z",
+  "published": true,
+  "title": "Bloc Party anuncia nuevas fechas y revive la urgencia del indie rock",
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/bloc-party-anuncia-nuevas-fechas-y-revive-la-urgencia-del-indie-rock-1779732252975.webp",
+  "scheduled": false,
+  "views": 0,
+  "updatedAt": "2026-05-25T20:12:09.370Z"
 }
