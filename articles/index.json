@@ -115,8 +115,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/shakira-lleva-el-pop-global-al-centro-del-mundial-1779732264130.webp",
     "excerpt": "La cantante vuelve a conectar música y futbol con una producción pensada para escala global.",
     "publishAt": "2026-05-25T17:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
