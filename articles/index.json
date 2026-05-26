@@ -67,8 +67,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/ac-dc-demuestra-que-el-rock-de-estadio-todavia-tiene-gasolina-1779732311923.webp",
     "excerpt": "La banda mantiene viva la maquinaria de riffs, volumen y nostalgia eléctrica en sus nuevas fechas.",
     "publishAt": "2026-05-26T12:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
