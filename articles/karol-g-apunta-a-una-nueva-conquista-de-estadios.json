@@ -1,18 +1,21 @@
 {
   "id": "karol-g-apunta-a-una-nueva-conquista-de-estadios",
+  "seoUrl": "https://drkprty.uk/articles/karol-g-apunta-a-una-nueva-conquista-de-estadios.html",
+  "date": "26 MAY 2026",
+  "createdAt": "2026-05-25T09:30:00.000Z",
+  "publishAt": "2026-05-26T13:30",
   "title": "Karol G apunta a una nueva conquista de estadios",
   "category": "CONCIERTO",
-  "date": "26 MAY 2026",
-  "read": "3 MIN DE LECTURA",
-  "author": "DRKPRTY",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/karol-g-apunta-a-una-nueva-conquista-de-estadios-1779732464609.jpeg",
+  "scheduled": false,
   "excerpt": "La artista colombiana sigue expandiendo su dominio en vivo con shows de escala cada vez más grande.",
-  "tags": [
-    "#KAROLG",
-    "#LATINPOP",
-    "#REGGAETON",
-    "#CONCIERTOS"
-  ],
+  "quote": "Karol G convirtió el despecho en una fiesta de estadio.",
+  "shortCode": "karolg2605",
+  "published": true,
+  "spotifyEmbed": "",
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/karol-g-apunta-a-una-nueva-conquista-de-estadios-1779732464609.jpeg",
+  "author": "DRKPRTY",
+  "shortUrl": "https://drkprty.uk/go/karolg2605/",
+  "read": "3 MIN DE LECTURA",
   "body": [
     "Karol G continúa consolidándose como una de las figuras más fuertes del pop latino en vivo.",
     "Sus conciertos han dejado de ser simples presentaciones para convertirse en eventos generacionales, especialmente para un público que conecta con su narrativa de independencia, vulnerabilidad y celebración.",
@@ -21,14 +24,12 @@
     "Esa mezcla entre producción masiva y sentimiento directo explica por qué sus shows se sienten tan personales incluso frente a miles de personas.",
     "La nueva etapa promete reafirmar que el pop latino ya no pide permiso en los estadios."
   ],
-  "quote": "Karol G convirtió el despecho en una fiesta de estadio.",
-  "createdAt": "2026-05-25T09:30:00.000Z",
-  "publishAt": "2026-05-26T13:30",
-  "published": false,
-  "scheduled": false,
-  "spotifyEmbed": "",
-  "shortCode": "karolg2605",
-  "shortUrl": "https://drkprty.uk/go/karolg2605/",
-  "seoUrl": "https://drkprty.uk/articles/karol-g-apunta-a-una-nueva-conquista-de-estadios.html",
-  "updatedAt": "2026-05-25T18:07:46.840Z"
+  "tags": [
+    "#KAROLG",
+    "#LATINPOP",
+    "#REGGAETON",
+    "#CONCIERTOS"
+  ],
+  "views": 0,
+  "updatedAt": "2026-05-26T20:39:36.045Z"
 }
