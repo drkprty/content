@@ -55,8 +55,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/karol-g-apunta-a-una-nueva-conquista-de-estadios-1779732464609.jpeg",
     "excerpt": "La artista colombiana sigue expandiendo su dominio en vivo con shows de escala cada vez más grande.",
     "publishAt": "2026-05-26T13:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -79,8 +79,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/ariana-grande-prepara-su-regreso-a-los-escenarios-con-una-gira-masiva-1779732299930.webp",
     "excerpt": "La cantante apunta a una nueva etapa en vivo después de varios años lejos de las giras extensas.",
     "publishAt": "2026-05-26T10:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
