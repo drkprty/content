@@ -91,8 +91,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/blondshell-estrena-cancion-y-refuerza-su-lado-mas-aspero-1779732287818.jpg",
     "excerpt": "El nuevo sencillo empuja su sonido hacia guitarras más pesadas y letras cargadas de tensión emocional.",
     "publishAt": "2026-05-25T20:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
