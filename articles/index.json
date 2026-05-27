@@ -43,8 +43,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/metric-y-broken-social-scene-preparan-una-noche-de-indie-canadiense-1779828169844.avif",
     "excerpt": "Dos nombres clave del indie canadiense compartirán escenario en una combinación cargada de memoria alternativa.",
     "publishAt": "2026-05-26T15:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
