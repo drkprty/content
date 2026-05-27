@@ -9,8 +9,8 @@
     "publishAt": "2026-05-28T19:30",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2805",
-    "shortUrl": "https://drkprty.uk/go/musica2805/",
+    "shortCode": "massiveattack2805",
+    "shortUrl": "https://drkprty.uk/go/massiveattack2805/",
     "createdAt": "2026-05-27T15:55:37.732358Z"
   },
   {
@@ -23,8 +23,8 @@
     "publishAt": "2026-05-28T17:00",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2805",
-    "shortUrl": "https://drkprty.uk/go/musica2805/",
+    "shortCode": "arca2805",
+    "shortUrl": "https://drkprty.uk/go/arca2805/",
     "createdAt": "2026-05-27T15:55:37.731986Z"
   },
   {
@@ -37,8 +37,8 @@
     "publishAt": "2026-05-28T15:00",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2805",
-    "shortUrl": "https://drkprty.uk/go/musica2805/",
+    "shortCode": "charliexcx2805",
+    "shortUrl": "https://drkprty.uk/go/charliexcx2805/",
     "createdAt": "2026-05-27T15:55:37.731423Z"
   },
   {
@@ -51,8 +51,8 @@
     "publishAt": "2026-05-28T12:00",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2805",
-    "shortUrl": "https://drkprty.uk/go/musica2805/",
+    "shortCode": "fkatwigs2805",
+    "shortUrl": "https://drkprty.uk/go/fkatwigs2805/",
     "createdAt": "2026-05-27T15:55:37.730200Z"
   },
   {
@@ -65,8 +65,8 @@
     "publishAt": "2026-05-28T10:30",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2805",
-    "shortUrl": "https://drkprty.uk/go/musica2805/",
+    "shortCode": "kendricklamar2805",
+    "shortUrl": "https://drkprty.uk/go/kendricklamar2805/",
     "createdAt": "2026-05-27T15:55:37.728875Z"
   },
   {
@@ -86,15 +86,15 @@
   {
     "id": "the-chemical-brothers-regresan-a-los-festivales-europeos",
     "title": "The Chemical Brothers regresan a los festivales europeos",
-    "category": "",
+    "category": "NOTICIA",
     "date": "27 MAY 2026",
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/the-chemical-brothers-regresan-a-los-festivales-europeos-1779897773679.webp",
     "excerpt": "The Chemical Brothers regresan a los festivales europeos vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-27T19:00",
     "published": "scheduled",
     "scheduled": true,
-    "shortCode": "musica2705",
-    "shortUrl": "https://drkprty.uk/go/musica2705/",
+    "shortCode": "thechemicalbrothers2705",
+    "shortUrl": "https://drkprty.uk/go/thechemicalbrothers2705/",
     "createdAt": "2026-05-27T15:55:37.726303Z"
   },
   {
@@ -105,10 +105,10 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/rosalia-prepara-nueva-etapa-visual-y-sonora-1779897763011.webp",
     "excerpt": "Rosalía prepara nueva etapa visual y sonora vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-27T17:00",
-    "published": "scheduled",
-    "scheduled": true,
-    "shortCode": "musica2705",
-    "shortUrl": "https://drkprty.uk/go/musica2705/",
+    "published": true,
+    "scheduled": false,
+    "shortCode": "rosalia2705",
+    "shortUrl": "https://drkprty.uk/go/rosalia2705/",
     "createdAt": "2026-05-27T15:55:37.725878Z"
   },
   {
