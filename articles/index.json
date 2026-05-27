@@ -139,8 +139,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/usb-de-fred-again-captura-el-caos-emocional-de-la-vida-digital-1779897723533.jpeg",
     "excerpt": "USB de Fred again.. captura el caos emocional de la vida digital vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-27T12:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-27T15:55:37.723852Z"
   },
   {
