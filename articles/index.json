@@ -1,17 +1,5 @@
 [
   {
-    "id": "jorge-ortiz-de-pinedo-fallece-2026",
-    "title": "Fallece Jorge Ortiz de Pinedo, figura histórica de la televisión mexicana",
-    "category": "NOTICIA",
-    "date": "25 MAY 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/jorge-ortiz-de-pinedo-fallece-2026-1779864355132.avif",
-    "excerpt": "El actor, productor y comediante deja un legado enorme dentro de la televisión y el entretenimiento en México.",
-    "publishAt": "",
-    "published": true,
-    "scheduled": false,
-    "createdAt": "2026-05-27T06:43:34.291504Z"
-  },
-  {
     "id": "the-strokes-gorillaz-y-twenty-one-pilots-reactivan-la-fiebre-por-los-headliners-gigantes",
     "title": "The Strokes, Gorillaz y Twenty One Pilots reactivan la fiebre por los headliners gigantes",
     "category": "FESTIVALES",
@@ -235,7 +223,7 @@
     "image": "https://oaxsun.github.io/orbita/assets/uploads/deftones-posible-regreso-mexico-1779293255500.webp",
     "excerpt": "Los rumores sobre una posible fecha de Deftones en México crecieron después de nuevos movimientos en su agenda.",
     "publishAt": "2026-05-21T11:00",
-    "published": false,
+    "published": true,
     "scheduled": false,
     "createdAt": "2026-05-20T15:57:38.834Z"
   },
