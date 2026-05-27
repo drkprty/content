@@ -31,8 +31,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes-1779732497765.jpeg",
     "excerpt": "La temporada de festivales vuelve a mezclar nostalgia dosmilera, pop y rock en carteles cada vez más híbridos.",
     "publishAt": "2026-05-26T16:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
