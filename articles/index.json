@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/the-strokes-gorillaz-y-twenty-one-pilots-reactivan-la-fiebre-por-los-headliners-gigantes-1779732523918.jpg",
     "excerpt": "Los grandes nombres vuelven a dominar la conversación festivalera con propuestas que apelan a generaciones distintas.",
     "publishAt": "2026-05-26T20:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
@@ -40,7 +40,7 @@
     "title": "Metric y Broken Social Scene preparan una noche de indie canadiense",
     "category": "CONCIERTO",
     "date": "26 MAY 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/metric-y-broken-social-scene-preparan-una-noche-de-indie-canadiense-1779732483665.jxl",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/metric-y-broken-social-scene-preparan-una-noche-de-indie-canadiense-1779828169844.avif",
     "excerpt": "Dos nombres clave del indie canadiense compartirán escenario en una combinación cargada de memoria alternativa.",
     "publishAt": "2026-05-26T15:00",
     "published": "scheduled",
