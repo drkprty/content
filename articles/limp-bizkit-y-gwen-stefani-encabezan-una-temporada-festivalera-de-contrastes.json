@@ -1,18 +1,26 @@
 {
   "id": "limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes",
-  "title": "Limp Bizkit y Gwen Stefani encabezan una temporada festivalera de contrastes",
-  "category": "NOTICIA",
-  "date": "26 MAY 2026",
-  "read": "3 MIN DE LECTURA",
-  "author": "DRKPRTY",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes-1779732497765.jpeg",
-  "excerpt": "La temporada de festivales vuelve a mezclar nostalgia dosmilera, pop y rock en carteles cada vez más híbridos.",
+  "createdAt": "2026-05-25T09:30:00.000Z",
+  "shortUrl": "https://drkprty.uk/go/limpbizkit2605/",
   "tags": [
     "#LIMPBIZKIT",
     "#GWENSTEFANI",
     "#FESTIVAL",
     "#NOSTALGIA"
   ],
+  "shortCode": "limpbizkit2605",
+  "read": "3 MIN DE LECTURA",
+  "scheduled": false,
+  "published": true,
+  "excerpt": "La temporada de festivales vuelve a mezclar nostalgia dosmilera, pop y rock en carteles cada vez más híbridos.",
+  "title": "Limp Bizkit y Gwen Stefani encabezan una temporada festivalera de contrastes",
+  "author": "DRKPRTY",
+  "date": "26 MAY 2026",
+  "spotifyEmbed": "",
+  "seoUrl": "https://drkprty.uk/articles/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes.html",
+  "category": "NOTICIA",
+  "quote": "Los festivales entendieron que la nostalgia no tiene que sonar a un solo género.",
+  "publishAt": "2026-05-26T16:30",
   "body": [
     "La temporada festivalera sigue demostrando que los carteles más comentados son los que se atreven a mezclar mundos aparentemente opuestos.",
     "Nombres como Limp Bizkit y Gwen Stefani conviven en una misma conversación porque ambos representan formas distintas de nostalgia dosmilera.",
@@ -21,14 +29,7 @@
     "El público actual puede pasar de guitarras pesadas a pop radiante sin sentir contradicción, porque las playlists personales ya funcionan así.",
     "La nostalgia, cuando está bien programada, puede convertirse en uno de los motores más fuertes de un festival."
   ],
-  "quote": "Los festivales entendieron que la nostalgia no tiene que sonar a un solo género.",
-  "createdAt": "2026-05-25T09:30:00.000Z",
-  "publishAt": "2026-05-26T16:30",
-  "published": false,
-  "scheduled": false,
-  "spotifyEmbed": "",
-  "shortCode": "limpbizkit2605",
-  "shortUrl": "https://drkprty.uk/go/limpbizkit2605/",
-  "seoUrl": "https://drkprty.uk/articles/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes.html",
-  "updatedAt": "2026-05-25T18:08:19.178Z"
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/limp-bizkit-y-gwen-stefani-encabezan-una-temporada-festivalera-de-contrastes-1779732497765.jpeg",
+  "views": 0,
+  "updatedAt": "2026-05-27T06:42:30.396Z"
 }
