@@ -19,8 +19,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/sub-pop-vuelve-a-sonar-fuerte-dentro-del-universo-gamer-1779732508098.jpg",
     "excerpt": "La presencia del sello en experiencias interactivas confirma que el indie sigue encontrando nuevas rutas de escucha.",
     "publishAt": "2026-05-26T18:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "createdAt": "2026-05-25T09:30:00.000Z"
   },
   {
