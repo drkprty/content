@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/wolffel-regresa-estudio-2026-1779898247033.jpg",
     "excerpt": "El productor confirmó que ya trabaja en nueva música, la primera desde el lanzamiento de Down the Line en 2020.",
     "publishAt": "2026-05-27T22:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "wolffel2705",
     "shortUrl": "https://drkprty.uk/go/wolffel2705/",
     "createdAt": "2026-05-27T16:07:36.283978Z"
