@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/fka-twigs-expande-su-universo-visual-con-un-nuevo-performance-1779897796177.jpg",
     "excerpt": "FKA twigs expande su universo visual con un nuevo performance vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-28T12:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "fkatwigs2805",
     "shortUrl": "https://drkprty.uk/go/fkatwigs2805/",
     "createdAt": "2026-05-27T15:55:37.730200Z"
