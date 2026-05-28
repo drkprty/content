@@ -63,8 +63,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/kendrick-lamar-domina-nuevamente-las-conversaciones-del-hip-hop-1779897782797.jpg",
     "excerpt": "Kendrick Lamar domina nuevamente las conversaciones del hip hop vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-28T10:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "kendricklamar2805",
     "shortUrl": "https://drkprty.uk/go/kendricklamar2805/",
     "createdAt": "2026-05-27T15:55:37.728875Z"
@@ -91,8 +91,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/the-chemical-brothers-regresan-a-los-festivales-europeos-1779897773679.webp",
     "excerpt": "The Chemical Brothers regresan a los festivales europeos vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-27T19:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "thechemicalbrothers2705",
     "shortUrl": "https://drkprty.uk/go/thechemicalbrothers2705/",
     "createdAt": "2026-05-27T15:55:37.726303Z"
