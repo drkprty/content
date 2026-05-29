@@ -175,8 +175,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-system-of-a-down-convierte-cdmx-en-un-caos-perfecto-1780078792545.jpg",
     "excerpt": "Review: System Of A Down convierte CDMX en un caos perfecto",
     "publishAt": "2026-05-29T14:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "review-system-of-a-down-convierte-cdmx-e",
     "shortUrl": "https://drkprty.uk/go/review-system-of-a-down-convierte-cdmx-e/",
     "createdAt": "2026-05-29T18:08:13.627872Z"
