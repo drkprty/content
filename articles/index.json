@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/arca-llevara-un-nuevo-show-experimental-a-latinoamerica-1779897825677.jpg",
     "excerpt": "Arca llevará un nuevo show experimental a Latinoamérica vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-28T17:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "arca2805",
     "shortUrl": "https://drkprty.uk/go/arca2805/",
     "createdAt": "2026-05-27T15:55:37.731986Z"
