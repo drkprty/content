@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/charli-xcx-mantiene-viva-la-estetica-brat-en-festivales-1779897815161.jpg",
     "excerpt": "Charli XCX mantiene viva la estética brat en festivales vuelve a colocarse en la conversación musical y cultural.",
     "publishAt": "2026-05-28T15:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "charliexcx2805",
     "shortUrl": "https://drkprty.uk/go/charliexcx2805/",
     "createdAt": "2026-05-27T15:55:37.731423Z"
