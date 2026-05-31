@@ -133,8 +133,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/gesaffelstein-confirma-nuevas-fechas-internacionales-1780078766543.webp",
     "excerpt": "Gesaffelstein confirma nuevas fechas internacionales",
     "publishAt": "2026-05-29T18:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "gesaffelstein-confirma-nuevas-fechas-int",
     "shortUrl": "https://drkprty.uk/go/gesaffelstein-confirma-nuevas-fechas-int/",
     "createdAt": "2026-05-29T18:08:13.629888Z"
