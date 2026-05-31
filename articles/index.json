@@ -119,8 +119,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-gamma-gesaffelstein-1780078775644.jpeg",
     "excerpt": "Review: Gamma — Gesaffelstein",
     "publishAt": "2026-05-29T21:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "review-gamma-gesaffelstein",
     "shortUrl": "https://drkprty.uk/go/review-gamma-gesaffelstein/",
     "createdAt": "2026-05-29T18:08:13.630015Z"
