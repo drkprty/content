@@ -63,8 +63,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-tiktok-revivio-una-cancion-de-deftones-1780078829343.avif",
     "excerpt": "Más de dos décadas después de su lanzamiento, una canción de Deftones encontró una segunda vida gracias a TikTok, conectando a la banda con millones de jóvenes que ni siquiera habían nacido cuando el tema apareció originalmente.",
     "publishAt": "2026-05-30T16:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "deftones2905",
     "shortUrl": "https://drkprty.uk/go/deftones2905/",
     "createdAt": "2026-05-29T18:08:13.630836Z"
