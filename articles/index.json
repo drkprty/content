@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/el-regreso-del-cd-entre-coleccionistas-jovenes-1780078855593.webp",
     "excerpt": "Mientras el streaming domina la industria musical, una nueva generación de oyentes está redescubriendo el formato compacto y convirtiéndolo nuevamente en objeto de colección.",
     "publishAt": "2026-05-31T10:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "cd2905",
     "shortUrl": "https://drkprty.uk/go/cd2905/",
     "createdAt": "2026-05-29T18:08:13.631295Z"
