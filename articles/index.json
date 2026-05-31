@@ -91,8 +91,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/anyma-presenta-un-nuevo-show-visual-1780078811992.jpeg",
     "excerpt": "El productor italiano reveló una nueva propuesta audiovisual que combina tecnología, narrativa digital y música electrónica en una experiencia diseñada para desafiar las expectativas de los conciertos tradicionales.",
     "publishAt": "2026-05-30T12:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "anyma2905",
     "shortUrl": "https://drkprty.uk/go/anyma2905/",
     "createdAt": "2026-05-29T18:08:13.630477Z"
@@ -105,8 +105,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/the-smile-prepara-nueva-musica-1780078802482.jpg",
     "excerpt": "El proyecto alternativo de Thom Yorke, Jonny Greenwood y Tom Skinner parece estar trabajando nuevamente en material inédito, despertando la expectativa de fans que esperan el próximo capítulo de una de las bandas más interesantes del rock contemporáneo.",
     "publishAt": "2026-05-30T10:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "the-smile2905",
     "shortUrl": "https://drkprty.uk/go/the-smile2905/",
     "createdAt": "2026-05-29T18:08:13.630297Z"
