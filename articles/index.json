@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-hyperdrama-justice-1780078847261.jpg",
     "excerpt": "Justice regresa con un álbum que combina la grandiosidad de sus primeros años con una producción más refinada, demostrando que todavía tienen mucho que decir dentro de la música electrónica contemporánea.",
     "publishAt": "2026-05-30T20:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "hyperdrama-justice",
     "shortUrl": "https://drkprty.uk/go/hyperdrama-justice/",
     "createdAt": "2026-05-29T18:08:13.631087Z"
