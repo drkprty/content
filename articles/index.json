@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/turnstile-anuncia-edicion-especial-1780078821248.jpg",
     "excerpt": "La banda de Baltimore prepara una edición especial que incluirá material adicional y vuelve a demostrar por qué se ha convertido en uno de los nombres más importantes del rock alternativo actual.",
     "publishAt": "2026-05-30T14:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "turnstile2905",
     "shortUrl": "https://drkprty.uk/go/turnstile2905/",
     "createdAt": "2026-05-29T18:08:13.630626Z"
