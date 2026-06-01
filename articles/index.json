@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-los-festivales-vuelven-a-apostar-por-el-rock-1780078864074.jpg",
     "excerpt": "Después de años dominados por el pop, el reggaetón y la música electrónica, los grandes festivales están recuperando espacio para las guitarras, demostrando que el rock sigue teniendo un papel importante dentro de la cultura musical actual.",
     "publishAt": "2026-05-31T14:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "rock2905",
     "shortUrl": "https://drkprty.uk/go/rock2905/",
     "createdAt": "2026-05-29T18:08:13.631445Z"
