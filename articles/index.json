@@ -118,11 +118,11 @@
     "date": "01 JUN 2026",
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/foster-the-people-ofrecera-concierto-gratuito-en-la-plaza-de-toros-mexico-gracias-a-heineken-1780328959287.jpg",
     "excerpt": "La banda llegará a la CDMX con una presentación gratuita impulsada por Heineken, y los fans tendrán que participar en la dinámica oficial para conseguir acceso.",
-    "publishAt": "2026-06-01T13:00",
-    "published": "scheduled",
-    "scheduled": true,
-    "shortCode": "foster0106",
-    "shortUrl": "https://drkprty.uk/go/foster0106/",
+    "publishAt": "2026-06-01T12:00",
+    "published": true,
+    "scheduled": false,
+    "shortCode": "fosterp0106",
+    "shortUrl": "https://drkprty.uk/go/fosterp0106/",
     "createdAt": "2026-06-01T15:39:36.171886Z"
   },
   {
