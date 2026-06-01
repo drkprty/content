@@ -105,8 +105,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/bicep-adelanta-detalles-de-su-proximo-proyecto-audiovisual-1780328970590.jpg",
     "excerpt": "El dúo norirlandés prepara una nueva experiencia que busca llevar su electrónica emocional a un terreno visual todavía más inmersivo.",
     "publishAt": "2026-06-01T15:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "bicep0106",
     "shortUrl": "https://drkprty.uk/go/bicep0106/",
     "createdAt": "2026-06-01T15:39:36.172323Z"
