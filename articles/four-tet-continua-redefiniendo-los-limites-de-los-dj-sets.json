@@ -1,7 +1,17 @@
 {
   "id": "four-tet-continua-redefiniendo-los-limites-de-los-dj-sets",
-  "excerpt": "Kieran Hebden ha convertido sus presentaciones en ejercicios de libertad musical donde conviven electrónica, pop, rarezas y momentos inesperados.",
+  "title": "Four Tet continúa redefiniendo los límites de los DJ sets",
+  "category": "NOTICIA",
+  "date": "02 JUN 2026",
+  "read": "4 MIN DE LECTURA",
   "author": "Luna Mercer",
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/four-tet-continua-redefiniendo-los-limites-de-los-dj-sets-1780329026525.jpeg",
+  "excerpt": "Kieran Hebden ha convertido sus presentaciones en ejercicios de libertad musical donde conviven electrónica, pop, rarezas y momentos inesperados.",
+  "tags": [
+    "#DRKPRTY",
+    "#MUSICA",
+    "#NOTICIAS"
+  ],
   "body": [
     "Four Tet lleva años demostrando que un DJ set no tiene que comportarse como una línea recta. En manos de Kieran Hebden, la cabina se convierte en un espacio abierto donde puede aparecer techno, garage, pop, ambient o una canción completamente inesperada.",
     "Esa libertad es precisamente lo que ha convertido sus presentaciones en objeto de culto. Mientras muchos sets actuales parecen diseñados para mantener energía constante, Four Tet apuesta por el riesgo y la sorpresa.",
@@ -10,25 +20,14 @@
     "En una era donde los festivales electrónicos suelen repetir estructuras similares, sus sets mantienen una sensación de posibilidad constante.",
     "Más que perseguir tendencias, Four Tet parece interesado en recordarnos que la pista de baile todavía puede ser un lugar de descubrimiento."
   ],
-  "tags": [
-    "#DRKPRTY",
-    "#MUSICA",
-    "#NOTICIAS"
-  ],
   "quote": "Four Tet convierte cada DJ set en una conversación entre géneros que no sabían que podían bailar juntos.",
-  "category": "",
-  "publishAt": "2026-06-02T11:00",
-  "shortCode": "fourtet0206",
-  "scheduled": false,
-  "seoUrl": "https://drkprty.uk/articles/four-tet-continua-redefiniendo-los-limites-de-los-dj-sets.html",
-  "shortUrl": "https://drkprty.uk/go/fourtet0206/",
   "createdAt": "2026-06-01T15:39:36.173333Z",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/four-tet-continua-redefiniendo-los-limites-de-los-dj-sets-1780329026525.jpeg",
-  "date": "02 JUN 2026",
-  "read": "4 MIN DE LECTURA",
-  "title": "Four Tet continúa redefiniendo los límites de los DJ sets",
-  "spotifyEmbed": "",
+  "publishAt": "2026-06-02T11:00",
   "published": true,
-  "views": 1,
-  "updatedAt": "2026-06-02T21:23:22.624Z"
+  "scheduled": false,
+  "shortCode": "fourtet0206a",
+  "spotifyEmbed": "",
+  "shortUrl": "https://drkprty.uk/go/fourtet0206a/",
+  "seoUrl": "https://drkprty.uk/articles/four-tet-continua-redefiniendo-los-limites-de-los-dj-sets.html",
+  "updatedAt": "2026-06-02T21:24:20.834Z"
 }
