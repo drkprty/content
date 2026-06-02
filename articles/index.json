@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/queens-of-the-stone-age-prepara-regreso-a-los-escenarios-1780329040534.jxl",
     "excerpt": "La banda de Josh Homme prepara nuevas fechas que prometen devolver su mezcla de stoner rock, elegancia torcida y riffs gigantes a los escenarios.",
     "publishAt": "2026-06-02T13:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "qotsa0206",
     "shortUrl": "https://drkprty.uk/go/qotsa0206/",
     "createdAt": "2026-06-01T15:39:36.173614Z"
@@ -63,8 +63,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/four-tet-continua-redefiniendo-los-limites-de-los-dj-sets-1780329026525.jpeg",
     "excerpt": "Kieran Hebden ha convertido sus presentaciones en ejercicios de libertad musical donde conviven electrónica, pop, rarezas y momentos inesperados.",
     "publishAt": "2026-06-02T11:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "fourtet0206",
     "shortUrl": "https://drkprty.uk/go/fourtet0206/",
     "createdAt": "2026-06-01T15:39:36.173333Z"
@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/aphex-twin-vuelve-a-aparecer-en-rumores-de-festivales-europeos-1780329016853.jpg",
     "excerpt": "El productor británico volvió a entrar en la conversación festivalera después de nuevos rumores sobre posibles presentaciones en Europa.",
     "publishAt": "2026-06-01T19:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "aphextwin0106",
     "shortUrl": "https://drkprty.uk/go/aphextwin0106/",
     "createdAt": "2026-06-01T15:39:36.173069Z"
