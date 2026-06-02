@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-romance-fontaines-d-c-1780329059154.webp",
     "excerpt": "La banda irlandesa entrega un disco ambicioso, oscuro y emocionalmente expansivo que confirma su lugar como una de las fuerzas más importantes del rock actual.",
     "publishAt": "2026-06-02T15:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "fontaines0206",
     "shortUrl": "https://drkprty.uk/go/fontaines0206/",
     "createdAt": "2026-06-01T15:39:36.174152Z"
