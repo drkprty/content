@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-los-festivales-europeos-siguen-marcando-tendencia-global-1780329069082.jpg",
     "excerpt": "De Barcelona a Berlín, los festivales europeos continúan funcionando como laboratorios donde se prueban sonidos, formatos y nuevas formas de entender la música en vivo.",
     "publishAt": "2026-06-02T17:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "festivales0206",
     "shortUrl": "https://drkprty.uk/go/festivales0206/",
     "createdAt": "2026-06-01T15:39:36.174460Z"
