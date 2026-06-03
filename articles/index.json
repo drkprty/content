@@ -70,6 +70,20 @@
     "createdAt": "2026-06-03T18:19:10.630462Z"
   },
   {
+    "id": "charli-xcx-anuncia-music-fashion-film-y-abre-una-nueva-era-despues-de-brat",
+    "title": "Charli XCX anuncia Music, Fashion, Film y abre una nueva era después de Brat",
+    "category": "NOTICIA",
+    "date": "03 JUN 2026",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/charli-xcx-anuncia-music-fashion-film-y-abre-una-nueva-era-despues-de-brat-1780511883985.png",
+    "excerpt": "Charli XCX confirmó su próximo álbum con una portada protagonizada por John Cale, Marc Jacobs y Martin Scorsese, marcando un giro visual y sonoro después del fenómeno Brat.",
+    "publishAt": "",
+    "published": true,
+    "scheduled": false,
+    "shortCode": "charli0306",
+    "shortUrl": "https://drkprty.uk/go/charli0306/",
+    "createdAt": "2026-06-03T18:19:10.630462Z"
+  },
+  {
     "id": "black-bananas-anuncia-su-primer-album-en-12-anos",
     "title": "Black Bananas anuncia su primer álbum en 12 años",
     "category": "NOTICIA",
@@ -108,20 +122,6 @@
     "published": true,
     "scheduled": false,
     "shortCode": "pitchfork0306",
-    "shortUrl": "",
-    "createdAt": "2026-06-03T18:19:10.630462Z"
-  },
-  {
-    "id": "charli-xcx-anuncia-music-fashion-film-y-abre-una-nueva-era-despues-de-brat",
-    "title": "Charli XCX anuncia Music, Fashion, Film y abre una nueva era después de Brat",
-    "category": "NOTICIA",
-    "date": "03 JUN 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/charli-xcx-music-fashion-film.webp",
-    "excerpt": "Charli XCX confirmó su próximo álbum con una portada protagonizada por John Cale, Marc Jacobs y Martin Scorsese, marcando un giro visual y sonoro después del fenómeno Brat.",
-    "publishAt": "2026-06-03T11:00:00.000Z",
-    "published": true,
-    "scheduled": false,
-    "shortCode": "charli0306",
     "shortUrl": "",
     "createdAt": "2026-06-03T18:19:10.630462Z"
   },
