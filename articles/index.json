@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/disclosure-insinua-nueva-etapa-musical-1780329079267.jpg",
     "excerpt": "El dúo británico comenzó a dejar pistas sobre un posible nuevo ciclo creativo, despertando la curiosidad de fans de la electrónica y el house contemporáneo.",
     "publishAt": "2026-06-02T19:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "disclosure0206",
     "shortUrl": "https://drkprty.uk/go/disclosure0206/",
     "createdAt": "2026-06-01T15:39:36.174823Z"
