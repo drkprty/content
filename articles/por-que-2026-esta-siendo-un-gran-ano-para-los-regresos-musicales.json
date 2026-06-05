@@ -1,18 +1,18 @@
 {
   "id": "por-que-2026-esta-siendo-un-gran-ano-para-los-regresos-musicales",
-  "title": "Por qué 2026 está siendo un gran año para los regresos musicales",
-  "category": "RESEÑA",
   "date": "04 JUN 2026",
-  "read": "5 MIN DE LECTURA",
+  "published": true,
+  "seoUrl": "https://drkprty.uk/articles/por-que-2026-esta-siendo-un-gran-ano-para-los-regresos-musicales.html",
+  "publishAt": "2026-06-04T09:45",
   "author": "Valeria Noir",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/black-bananas-anuncia-su-primer-album-en-12-anos-1780510920730.webp",
+  "createdAt": "2026-06-03T18:19:10.630462Z",
+  "quote": "Los mejores regresos de 2026 no miran al pasado para quedarse ahí, sino para encontrar otra forma de avanzar.",
+  "title": "Por qué 2026 está siendo un gran año para los regresos musicales",
+  "scheduled": false,
+  "read": "5 MIN DE LECTURA",
+  "shortUrl": "https://drkprty.uk/go/regresos0406/",
   "excerpt": "De Black Bananas a nuevos ciclos pop y electrónicos, 2026 parece marcado por artistas que regresan no solo por nostalgia, sino para reactivar conversaciones pendientes.",
-  "tags": [
-    "#REGRESOS",
-    "#MUSICA2026",
-    "#HISTORIA",
-    "#DRKPRTY"
-  ],
+  "category": "RESEÑA",
   "body": [
     "Cada año tiene sus regresos, pero 2026 empieza a sentirse especialmente cargado de reapariciones musicales con algo más que nostalgia detrás. No se trata únicamente de artistas volviendo para tocar canciones antiguas; muchos están regresando con discos, etapas visuales y nuevas intenciones creativas.",
     "Black Bananas es un buen ejemplo. Su primer álbum en 12 años no funciona simplemente como recordatorio de una escena pasada, sino como reactivación de una identidad que todavía tiene algo que aportar al ruido actual.",
@@ -23,14 +23,15 @@
     "Por eso este año se siente interesante. Muchos artistas no están intentando recuperar exactamente el pasado, sino negociar con él.",
     "Y cuando eso ocurre, un regreso deja de ser nostalgia para convertirse en una nueva conversación."
   ],
-  "quote": "Los mejores regresos de 2026 no miran al pasado para quedarse ahí, sino para encontrar otra forma de avanzar.",
-  "createdAt": "2026-06-03T18:19:10.630462Z",
-  "publishAt": "",
-  "published": true,
-  "scheduled": false,
   "shortCode": "regresos0406",
+  "tags": [
+    "#REGRESOS",
+    "#MUSICA2026",
+    "#HISTORIA",
+    "#DRKPRTY"
+  ],
   "spotifyEmbed": "",
-  "shortUrl": "https://drkprty.uk/go/regresos0406/",
-  "seoUrl": "https://drkprty.uk/articles/por-que-2026-esta-siendo-un-gran-ano-para-los-regresos-musicales.html",
-  "updatedAt": "2026-06-03T18:37:03.068Z"
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-2026-esta-siendo-un-gran-ano-para-los-regresos-musicales-1780512333989.jpg",
+  "views": 0,
+  "updatedAt": "2026-06-05T21:48:35.973Z"
 }
