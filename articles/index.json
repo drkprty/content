@@ -63,8 +63,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/el-regreso-de-los-albumes-conceptuales-en-la-era-del-streaming-1780512081155.avif",
     "excerpt": "Aunque el streaming premia canciones sueltas y consumo inmediato, cada vez más artistas vuelven a construir discos como mundos completos.",
     "publishAt": "2026-06-03T17:41",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "conceptual0306",
     "shortUrl": "https://drkprty.uk/go/conceptual0306/",
     "createdAt": "2026-06-03T18:19:10.630462Z"
