@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-charli-xcx-paso-de-artista-de-culto-a-fenomeno-cultural-1780512019904.webp",
     "excerpt": "El impacto de Brat convirtió a Charli XCX en algo más grande que una estrella pop: una figura capaz de definir estética, conversación y comportamiento digital.",
     "publishAt": "2026-06-03T16:39",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "charlicultura0306",
     "shortUrl": "https://drkprty.uk/go/charlicultura0306/",
     "createdAt": "2026-06-03T18:19:10.630462Z"
