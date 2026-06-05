@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-2026-esta-siendo-un-gran-ano-para-los-regresos-musicales-1780512333989.jpg",
     "excerpt": "De Black Bananas a nuevos ciclos pop y electrónicos, 2026 parece marcado por artistas que regresan no solo por nostalgia, sino para reactivar conversaciones pendientes.",
     "publishAt": "2026-06-04T09:45",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "regresos0406",
     "shortUrl": "https://drkprty.uk/go/regresos0406/",
     "createdAt": "2026-06-03T18:19:10.630462Z"
