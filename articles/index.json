@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/gold-panda-prepara-el-lanzamiento-de-ton-up-1780512222162.webp",
     "excerpt": "El productor británico Derwin Dicker regresará con Ton Up, un nuevo álbum que recupera su pulso electrónico más directo y artesanal.",
     "publishAt": "2026-06-04T16:43",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "goldpanda0406",
     "shortUrl": "https://drkprty.uk/go/goldpanda0406/",
     "createdAt": "2026-06-03T18:19:10.630462Z"
