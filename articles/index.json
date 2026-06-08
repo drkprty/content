@@ -84,6 +84,20 @@
     "createdAt": "2026-06-08T16:15:05.361625Z"
   },
   {
+    "id": "como-robert-smith-sigue-influyendo-a-tres-generaciones-de-musicos",
+    "title": "Cómo Robert Smith sigue influyendo a tres generaciones de músicos",
+    "category": "NOTICIA",
+    "date": "08 JUN 2026",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-robert-smith-sigue-influyendo-a-tres-generaciones-de-musicos-1780935897079.webp",
+    "excerpt": "La aparición de Robert Smith junto a Olivia Rodrigo recordó algo evidente pero necesario: el líder de The Cure sigue siendo una de las figuras más influyentes del pop alternativo.",
+    "publishAt": "2026-06-08T11:20",
+    "published": "scheduled",
+    "scheduled": true,
+    "shortCode": "robertsmith0806",
+    "shortUrl": "https://drkprty.uk/go/robertsmith0806/",
+    "createdAt": "2026-06-08T16:15:05.361625Z"
+  },
+  {
     "id": "olivia-rodrigo-sorprende-primavera-sound-con-una-nueva-cancion-junto-a-robert-smith",
     "title": "Olivia Rodrigo sorprende Primavera Sound con una nueva canción junto a Robert Smith",
     "category": "NOTICIA",
@@ -116,27 +130,13 @@
     "title": "Review: SOMA — Skrillex",
     "category": "RESEÑA",
     "date": "08 JUN 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/somareview0806.webp",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-soma-skrillex-1780935935913.jpeg",
     "excerpt": "Skrillex entrega un disco inquieto, físico y lleno de mutaciones, donde la energía de club funciona como punto de partida para explorar una identidad cada vez más libre.",
-    "publishAt": "2026-06-08T15:00:00.000Z",
+    "publishAt": "2026-06-08T10:25",
     "published": true,
     "scheduled": false,
     "shortCode": "somareview0806",
-    "shortUrl": "",
-    "createdAt": "2026-06-08T16:15:05.361625Z"
-  },
-  {
-    "id": "como-robert-smith-sigue-influyendo-a-tres-generaciones-de-musicos",
-    "title": "Cómo Robert Smith sigue influyendo a tres generaciones de músicos",
-    "category": "NOTICIA",
-    "date": "08 JUN 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-robert-smith-sigue-influyendo-a-tres-generaciones-de-musicos-1780935897079.webp",
-    "excerpt": "La aparición de Robert Smith junto a Olivia Rodrigo recordó algo evidente pero necesario: el líder de The Cure sigue siendo una de las figuras más influyentes del pop alternativo.",
-    "publishAt": "2026-06-08T00:20",
-    "published": true,
-    "scheduled": false,
-    "shortCode": "robertsmith0806",
-    "shortUrl": "https://drkprty.uk/go/robertsmith0806/",
+    "shortUrl": "https://drkprty.uk/go/somareview0806/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
   },
   {
