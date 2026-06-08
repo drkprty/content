@@ -105,8 +105,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/el-regreso-de-los-mixtapes-en-la-era-del-streaming-1780697687676.webp",
     "excerpt": "Cuando parecía que los álbumes y playlists habían absorbido por completo el mercado musical, una nueva generación de artistas está recuperando el espíritu libre de los mixtapes.",
     "publishAt": "2026-06-06T13:14",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "mixtapes0606",
     "shortUrl": "https://drkprty.uk/go/mixtapes0606/",
     "createdAt": "2026-06-05T22:03:31.871045Z"
