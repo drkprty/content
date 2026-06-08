@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-los-artistas-siguen-lanzando-discos-sorpresa-1780697733259.avif",
     "excerpt": "Desde Beyoncé hasta Skrillex, cada vez más músicos están abandonando las campañas tradicionales para apostar por lanzamientos inesperados que transforman la conversación digital.",
     "publishAt": "2026-06-06T17:15",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "sorpresa0606",
     "shortUrl": "https://drkprty.uk/go/sorpresa0606/",
     "createdAt": "2026-06-05T22:03:31.871045Z"
