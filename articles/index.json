@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/dj-screw-llega-al-streaming-y-una-nueva-generacion-descubre-su-legado-1780698474614.jpg",
     "excerpt": "La llegada oficial de parte del catálogo de DJ Screw a plataformas digitales abre la puerta para que nuevas audiencias conozcan una de las figuras más influyentes de la cultura hip hop.",
     "publishAt": "2026-06-07T14:27",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "djscrew0706",
     "shortUrl": "https://drkprty.uk/go/djscrew0706/",
     "createdAt": "2026-06-05T22:24:16.176302Z"
