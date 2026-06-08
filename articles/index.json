@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/kelela-anuncia-nuevas-fechas-internacionales-para-2026-1780698529834.jpg",
     "excerpt": "La cantante confirmó una nueva serie de conciertos en Norteamérica y Europa, reforzando una de las etapas más sólidas de toda su carrera.",
     "publishAt": "2026-06-07T16:28",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "kelela0706",
     "shortUrl": "https://drkprty.uk/go/kelela0706/",
     "createdAt": "2026-06-05T22:24:16.176302Z"
