@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-sir-render-navy-blue-1780698460081.jpg",
     "excerpt": "Navy Blue entrega uno de los trabajos más introspectivos de su carrera, consolidando una voz que continúa creciendo lejos de las tendencias más comerciales del hip hop.",
     "publishAt": "2026-06-07T12:27",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "navyblue0706",
     "shortUrl": "https://drkprty.uk/go/navyblue0706/",
     "createdAt": "2026-06-05T22:24:16.176302Z"
