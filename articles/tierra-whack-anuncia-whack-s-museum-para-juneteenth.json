@@ -1,18 +1,14 @@
 {
   "id": "tierra-whack-anuncia-whack-s-museum-para-juneteenth",
-  "title": "Tierra Whack anuncia Whack's Museum para Juneteenth",
-  "category": "NOTICIA",
-  "date": "06 JUN 2026",
-  "read": "5 MIN DE LECTURA",
-  "author": "Valeria Noir",
-  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/tierra-whack-anuncia-whack-s-museum-para-juneteenth-1780697630057.webp",
+  "quote": "Tierra Whack nunca sigue tendencias; crea mundos enteros donde las tendencias dejan de importar.",
   "excerpt": "La rapera de Filadelfia confirmó el lanzamiento de Whack's Museum, un nuevo mixtape que llegará el próximo 19 de junio y que promete expandir aún más uno de los universos creativos más originales del hip hop actual.",
-  "tags": [
-    "#TIERRAWHACK",
-    "#HIPHOP",
-    "#MIXTAPE",
-    "#NOTICIA"
-  ],
+  "shortUrl": "https://drkprty.uk/go/tierra0606/",
+  "date": "06 JUN 2026",
+  "spotifyEmbed": "",
+  "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/tierra-whack-anuncia-whack-s-museum-para-juneteenth-1780697630057.webp",
+  "published": true,
+  "author": "Valeria Noir",
+  "read": "5 MIN DE LECTURA",
   "body": [
     "Pocas artistas dentro del hip hop contemporáneo han construido una identidad tan particular como Tierra Whack.",
     "Desde que irrumpió con Whack World, la rapera ha demostrado una habilidad poco común para mezclar humor, surrealismo, vulnerabilidad y experimentación visual.",
@@ -23,14 +19,19 @@
     "Whack's Museum podría representar una nueva etapa dentro de su carrera.",
     "Las expectativas son altas y probablemente lo más sensato sea esperar algo completamente distinto a lo que cualquiera imagina."
   ],
-  "quote": "Tierra Whack nunca sigue tendencias; crea mundos enteros donde las tendencias dejan de importar.",
+  "category": "NOTICIA",
   "createdAt": "2026-06-05T22:03:31.871045Z",
-  "publishAt": "",
-  "published": true,
-  "scheduled": false,
+  "publishAt": "2026-06-06T09:14",
   "shortCode": "tierra0606",
-  "spotifyEmbed": "",
-  "shortUrl": "https://drkprty.uk/go/tierra0606/",
+  "scheduled": false,
+  "tags": [
+    "#TIERRAWHACK",
+    "#HIPHOP",
+    "#MIXTAPE",
+    "#NOTICIA"
+  ],
   "seoUrl": "https://drkprty.uk/articles/tierra-whack-anuncia-whack-s-museum-para-juneteenth.html",
-  "updatedAt": "2026-06-05T22:13:51.590Z"
+  "title": "Tierra Whack anuncia Whack's Museum para Juneteenth",
+  "views": 0,
+  "updatedAt": "2026-06-08T16:17:58.708Z"
 }
