@@ -91,8 +91,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/olivia-rodrigo-sorprende-primavera-sound-con-una-nueva-cancion-junto-a-robert-smith-1780935973020.jpg",
     "excerpt": "La cantante apareció por sorpresa en Barcelona y estrenó What’s Wrong With Me junto a Robert Smith, un cruce inesperado que conecta el pop generacional con el legado de The Cure.",
     "publishAt": "2026-06-08T11:20",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "olivia0806",
     "shortUrl": "https://drkprty.uk/go/olivia0806/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
@@ -105,8 +105,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-robert-smith-sigue-influyendo-a-tres-generaciones-de-musicos-1780935897079.webp",
     "excerpt": "La aparición de Robert Smith junto a Olivia Rodrigo recordó algo evidente pero necesario: el líder de The Cure sigue siendo una de las figuras más influyentes del pop alternativo.",
     "publishAt": "2026-06-08T11:20",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "robertsmith0806",
     "shortUrl": "https://drkprty.uk/go/robertsmith0806/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
