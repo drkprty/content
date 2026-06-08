@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-2026-esta-siendo-un-gran-ano-para-la-musica-electronica-1780698657859.jpeg",
     "excerpt": "Entre regresos inesperados, nuevos álbumes y una generación de productores cada vez más diversa, la electrónica atraviesa uno de sus momentos más interesantes de los últimos años.",
     "publishAt": "2026-06-07T18:30",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "electronica0706",
     "shortUrl": "https://drkprty.uk/go/electronica0706/",
     "createdAt": "2026-06-05T22:24:16.176302Z"
