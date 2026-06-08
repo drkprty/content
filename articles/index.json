@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/los-conciertos-sorpresa-estan-cambiando-la-forma-en-que-vivimos-los-festivales-1780935995299.jpg",
     "excerpt": "Apariciones inesperadas como la de Olivia Rodrigo en Primavera Sound demuestran que los momentos sorpresa se han convertido en una de las herramientas más poderosas de los festivales modernos.",
     "publishAt": "2026-06-08T16:26",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "sorpresafest0806",
     "shortUrl": "https://drkprty.uk/go/sorpresafest0806/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
