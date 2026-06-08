@@ -119,8 +119,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-i-built-you-a-tower-death-cab-for-cutie-1780697669976.jpg",
     "excerpt": "Death Cab For Cutie vuelve a demostrar por qué sigue siendo una de las bandas más respetadas del indie rock con un disco que encuentra belleza precisamente en los detalles más pequeños.",
     "publishAt": "2026-06-06T11:14",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "deathcab0606",
     "shortUrl": "https://drkprty.uk/go/deathcab0606/",
     "createdAt": "2026-06-05T22:03:31.871045Z"
