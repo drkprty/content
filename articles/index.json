@@ -133,8 +133,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/tierra-whack-anuncia-whack-s-museum-para-juneteenth-1780697630057.webp",
     "excerpt": "La rapera de Filadelfia confirmó el lanzamiento de Whack's Museum, un nuevo mixtape que llegará el próximo 19 de junio y que promete expandir aún más uno de los universos creativos más originales del hip hop actual.",
     "publishAt": "2026-06-06T09:14",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "tierra0606",
     "shortUrl": "https://drkprty.uk/go/tierra0606/",
     "createdAt": "2026-06-05T22:03:31.871045Z"
