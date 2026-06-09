@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/review-magazine-yhwh-nailgun-1780936046481.jpg",
     "excerpt": "En apenas 11 minutos, YHWH Nailgun entrega un álbum tenso, fragmentado y extrañamente completo, demostrando que la duración ya no define la ambición de una obra.",
     "publishAt": "2026-06-09T12:27",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "nailgun0906",
     "shortUrl": "https://drkprty.uk/go/nailgun0906/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
