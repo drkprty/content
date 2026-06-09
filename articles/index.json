@@ -63,8 +63,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/evilgiane-anuncia-heavensgate-vol-2-y-mantiene-encendido-el-pulso-del-underground-1780936026985.avif",
     "excerpt": "El fundador de Surf Gang confirmó la continuación de #HEAVENSGATE con un nuevo adelanto junto a Harto Falion, reforzando su papel como una de las figuras más inquietas del rap experimental.",
     "publishAt": "2026-06-09T10:27",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "evilgiane0906",
     "shortUrl": "https://drkprty.uk/go/evilgiane0906/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
