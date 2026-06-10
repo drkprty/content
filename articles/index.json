@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/las-playlists-estan-cambiando-la-forma-de-hacer-musica-1781114419187.jpeg",
     "excerpt": "La influencia de Spotify, Apple Music y TikTok ya no afecta únicamente la distribución musical. También está transformando la manera en que los artistas escriben, producen y estructuran sus canciones.",
     "publishAt": "2026-06-10T16:00",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "playlists1006",
     "shortUrl": "https://drkprty.uk/go/playlists1006/",
     "createdAt": "2026-06-10T17:00:38.655276Z"
