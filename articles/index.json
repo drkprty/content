@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/steve-lacy-adelanta-una-nueva-etapa-con-the-feeling-1780936117943.jpg",
     "excerpt": "El músico presentó The Feeling como primer indicio de una nueva etapa creativa, reforzando su lugar como una de las figuras más impredecibles del pop alternativo actual.",
     "publishAt": "2026-06-09T15:28",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "stevelacy0906",
     "shortUrl": "https://drkprty.uk/go/stevelacy0906/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-los-albumes-cortos-estan-regresando-1780936063048.jpg",
     "excerpt": "El caso de Magazine de YHWH Nailgun vuelve a poner sobre la mesa una pregunta clave: ¿cuánto necesita durar un álbum para sentirse completo?",
     "publishAt": "2026-06-09T13:27",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "albumescortos0906",
     "shortUrl": "https://drkprty.uk/go/albumescortos0906/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
