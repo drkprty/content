@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/primavera-sound-2026-los-momentos-que-definieron-el-festival-1780936136116.jpg",
     "excerpt": "De apariciones sorpresa a cruces generacionales, Primavera Sound volvió a demostrar por qué sigue funcionando como uno de los grandes termómetros culturales de la música global.",
     "publishAt": "2026-06-09T17:28",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "primavera0906",
     "shortUrl": "https://drkprty.uk/go/primavera0906/",
     "createdAt": "2026-06-08T16:15:05.361625Z"
