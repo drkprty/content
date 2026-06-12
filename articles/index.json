@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-los-festivales-estan-reduciendo-el-tamano-de-sus-carteles-1781282799116.webp",
     "excerpt": "Después de años compitiendo por presentar los lineups más extensos posibles, muchos festivales comienzan a apostar por propuestas más pequeñas, curadas y sostenibles.",
     "publishAt": "2026-06-12T11:46",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "carteles1206",
     "shortUrl": "https://drkprty.uk/go/carteles1206/",
     "createdAt": "2026-06-12T15:44:58.001739Z"
