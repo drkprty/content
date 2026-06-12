@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-la-moda-sigue-encontrando-inspiracion-en-la-musica-electronica-1781282848964.webp",
     "excerpt": "La relación entre moda y música electrónica continúa evolucionando, conectando pasarelas, clubes y nuevas formas de identidad cultural.",
     "publishAt": "2026-06-12T13:47",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "modaelectronica1206",
     "shortUrl": "https://drkprty.uk/go/modaelectronica1206/",
     "createdAt": "2026-06-12T15:44:58.001739Z"
