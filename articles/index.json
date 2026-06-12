@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/el-auge-de-los-soundtracks-originales-en-series-de-streaming-1781282864578.jpg",
     "excerpt": "Las plataformas de streaming están impulsando una nueva generación de compositores y demostrando que la música original sigue siendo una herramienta narrativa fundamental.",
     "publishAt": "2026-06-12T15:47",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "soundtracks1206",
     "shortUrl": "https://drkprty.uk/go/soundtracks1206/",
     "createdAt": "2026-06-12T15:44:58.001739Z"
