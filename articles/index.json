@@ -1,5 +1,19 @@
 [
   {
+    "id": "brian-eno-critica-la-dependencia-de-la-industria-musical-a-los-algoritmos",
+    "title": "Brian Eno critica la dependencia de la industria musical a los algoritmos",
+    "category": "NOTICIA",
+    "date": "14 JUN 2026",
+    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/brian-eno-critica-la-dependencia-de-la-industria-musical-a-los-algoritmos-1781722536842.webp",
+    "excerpt": "Brian Eno volvió a cuestionar el papel de los algoritmos dentro de la industria musical, advirtiendo sobre los riesgos creativos que implica depender cada vez más de sistemas automatizados para descubrir, distribuir y consumir música.",
+    "publishAt": "2026-06-17T11:55",
+    "published": true,
+    "scheduled": false,
+    "shortCode": "eno1406",
+    "shortUrl": "https://drkprty.uk/go/eno1406/",
+    "createdAt": "2026-06-17T18:46:46.510891Z"
+  },
+  {
     "id": "oliver-tree-muere-a-los-32-anos-en-un-accidente-de-helicoptero-en-brasil",
     "title": "Oliver Tree muere a los 32 años en un accidente de helicóptero en Brasil",
     "category": "NOTICIA",
@@ -52,20 +66,6 @@
     "published": false,
     "scheduled": false,
     "shortCode": "visuales1406",
-    "shortUrl": "",
-    "createdAt": "2026-06-17T18:46:46.510891Z"
-  },
-  {
-    "id": "brian-eno-critica-la-dependencia-de-la-industria-musical-a-los-algoritmos",
-    "title": "Brian Eno critica la dependencia de la industria musical a los algoritmos",
-    "category": "NOTICIA",
-    "date": "14 JUN 2026",
-    "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/eno1406.webp",
-    "excerpt": "Brian Eno volvió a cuestionar el papel de los algoritmos dentro de la industria musical, advirtiendo sobre los riesgos creativos que implica depender cada vez más de sistemas automatizados para descubrir, distribuir y consumir música.",
-    "publishAt": "2026-06-14T13:00:00.000Z",
-    "published": false,
-    "scheduled": false,
-    "shortCode": "eno1406",
     "shortUrl": "",
     "createdAt": "2026-06-17T18:46:46.510891Z"
   },
