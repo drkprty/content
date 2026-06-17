@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/modest-mouse-sigue-demostrando-por-que-es-una-banda-de-culto-dentro-del-indie-rock-1781722585839.webp",
     "excerpt": "La banda estadounidense continúa expandiendo su legado con nuevas fechas y una base de seguidores que permanece tan fiel como hace dos décadas.",
     "publishAt": "2026-06-17T15:56",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "modestmouse1406",
     "shortUrl": "https://drkprty.uk/go/modestmouse1406/",
     "createdAt": "2026-06-17T18:46:46.510891Z"
