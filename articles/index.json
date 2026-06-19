@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/vans-warped-tour-demuestra-que-el-punk-sigue-teniendo-una-nueva-generacion-1781893970679.jpg",
     "excerpt": "El regreso de Vans Warped Tour ha dejado claro que el punk continúa encontrando nuevas audiencias y nuevas formas de mantenerse relevante dentro del panorama musical contemporáneo.",
     "publishAt": "2026-06-19T14:32",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "warped1906",
     "shortUrl": "https://drkprty.uk/go/warped1906/",
     "createdAt": "2026-06-19T17:53:20.504282Z"
