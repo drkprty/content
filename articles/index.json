@@ -49,8 +49,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-los-festivales-estan-redisenando-sus-experiencias-vip-1781738080275.jpg",
     "excerpt": "Las zonas VIP dejaron de ser únicamente espacios exclusivos para convertirse en una de las principales fuentes de ingresos dentro de la industria de festivales.",
     "publishAt": "2026-06-18T12:14",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "vip1806",
     "shortUrl": "https://drkprty.uk/go/vip1806/",
     "createdAt": "2026-06-17T22:57:10.581403Z"
