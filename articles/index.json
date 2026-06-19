@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/por-que-las-bandas-sonoras-de-videojuegos-estan-viviendo-su-mejor-momento-1781738108621.jpg",
     "excerpt": "Los videojuegos se han convertido en una de las plataformas más importantes para descubrir música nueva y para impulsar el trabajo de compositores contemporáneos.",
     "publishAt": "2026-06-18T16:15",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "gamescores1806",
     "shortUrl": "https://drkprty.uk/go/gamescores1806/",
     "createdAt": "2026-06-17T22:57:10.581403Z"
@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/pulp-anuncia-un-nuevo-disco-en-vivo-y-revive-una-de-las-etapas-mas-importantes-del-britpop-1781738093085.webp",
     "excerpt": "La banda liderada por Jarvis Cocker lanzará un nuevo álbum en vivo que servirá como documento de una de las reuniones más celebradas del britpop contemporáneo.",
     "publishAt": "2026-06-18T15:14",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "pulp1806",
     "shortUrl": "https://drkprty.uk/go/pulp1806/",
     "createdAt": "2026-06-17T22:57:10.581403Z"
