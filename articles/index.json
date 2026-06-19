@@ -77,8 +77,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/christina-aguilera-y-marc-anthony-cantaran-en-la-inauguracion-del-centro-presidencial-obama-1781738041936.jpg",
     "excerpt": "Dos de las voces latinas más reconocidas de las últimas décadas formarán parte de la ceremonia inaugural del Centro Presidencial Obama, un proyecto que busca convertirse en uno de los espacios culturales y educativos más importantes de Estados Unidos.",
     "publishAt": "2026-06-18T10:13",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "obama1806",
     "shortUrl": "https://drkprty.uk/go/obama1806/",
     "createdAt": "2026-06-17T22:57:10.581403Z"
