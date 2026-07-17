@@ -21,8 +21,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/como-los-visuales-en-vivo-se-convirtieron-en-una-industria-propia-1781722559437.webp",
     "excerpt": "Los conciertos ya no se entienden únicamente desde la música. Pantallas gigantes, entornos inmersivos, realidad aumentada y diseño audiovisual han transformado los visuales en una industria multimillonaria.",
     "publishAt": "2026-06-24T12:55",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "visuales1406",
     "shortUrl": "https://drkprty.uk/go/visuales1406/",
     "createdAt": "2026-06-17T18:46:46.510891Z"
