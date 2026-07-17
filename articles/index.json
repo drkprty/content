@@ -7,8 +7,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/future-of-music-2026-los-artistas-que-podrian-definir-los-proximos-anos-1781894076840.jpeg",
     "excerpt": "La selección anual Future of Music reúne algunos de los nombres emergentes más prometedores del momento y ofrece una mirada anticipada hacia el futuro de la música contemporánea.",
     "publishAt": "2026-06-26T16:33",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "futuremusic1906",
     "shortUrl": "https://drkprty.uk/go/futuremusic1906/",
     "createdAt": "2026-06-19T17:53:20.504282Z"
