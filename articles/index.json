@@ -35,8 +35,8 @@
     "image": "https://cdn.jsdelivr.net/gh/drkprty/content@main/images/keith-richards-reflexiona-sobre-la-vida-a-los-82-anos-y-el-futuro-de-the-rolling-stones-1781894111662.jpeg",
     "excerpt": "A sus 82 años, Keith Richards continúa reflexionando sobre la música, el paso del tiempo y la extraordinaria longevidad de una de las bandas más importantes en la historia del rock.",
     "publishAt": "2026-06-19T23:35",
-    "published": "scheduled",
-    "scheduled": true,
+    "published": true,
+    "scheduled": false,
     "shortCode": "keith1906",
     "shortUrl": "https://drkprty.uk/go/keith1906/",
     "createdAt": "2026-06-19T17:53:20.504282Z"
