@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Eduardo Wolffel — Panel</title>
+  <link rel="stylesheet" href="css/panel.css">
+</head>
+<body>
+  <div id="auth-view" class="auth-view">
+    <form id="auth-form" class="auth-card">
+      <div class="eyebrow">DRKPRTY ART</div>
+      <h1>Admin</h1>
+      <p>Sign in with your Firebase administrator account.</p>
+      <input id="auth-email" type="email" autocomplete="username" placeholder="Email" required>
+      <input id="auth-password" type="password" autocomplete="current-password" placeholder="Password" required>
+      <button class="primary-btn" type="submit">Sign in</button>
+      <p id="auth-error" class="form-error" hidden></p>
+    </form>
+  </div>
+
+  <div id="app" class="app" hidden>
+    <div id="connection-banner" class="connection-banner" hidden></div>
+    <header class="panel-header">
+      <div>
+        <div class="eyebrow">DRKPRTY ART</div>
+        <h1>Works</h1>
+      </div>
+      <div class="header-actions">
+        <a class="text-btn" href="../" target="_blank" rel="noopener">View site</a>
+        <button id="logout-btn" class="text-btn" type="button">Log out</button>
+        <button id="save-btn" class="primary-btn" type="button">Save changes</button>
+      </div>
+    </header>
+
+    <main class="panel-shell">
+      <section class="settings-card">
+        <div class="section-title-row">
+          <h2>Site details</h2>
+          <span>Firestore · siteContent/main</span>
+        </div>
+        <div class="settings-grid">
+          <label><span>Artist name</span><input id="artist-name" type="text"></label>
+          <label><span>Contact email</span><input id="contact-email" type="email"></label>
+          <label><span>Green label</span><input id="available-label" type="text"></label>
+          <label><span>Red label</span><input id="sold-label" type="text"></label>
+        </div>
+      </section>
+
+      <section class="works-admin">
+        <div class="section-title-row works-title-row">
+          <div><h2>Artworks</h2><span>Firestore · works / GitHub · content</span></div>
+          <button id="add-work-btn" class="secondary-btn" type="button">+ Add artwork</button>
+        </div>
+        <div id="works-list" class="works-list"></div>
+      </section>
+    </main>
+
+    <div id="toast" class="toast" hidden></div>
+  </div>
+
+  <template id="work-template">
+    <article class="work-editor" draggable="true">
+      <div class="drag-handle" title="Drag to reorder">⋮⋮</div>
+      <div class="thumb-wrap">
+        <img class="thumb" alt="Artwork preview">
+        <label class="upload-btn">Replace image<input class="image-input" type="file" accept="image/jpeg,image/png,image/webp"></label>
+      </div>
+      <div class="work-fields">
+        <div class="field-row field-row--title">
+          <label><span>Title</span><input class="field-title" type="text"></label>
+          <label class="year-field"><span>Year</span><input class="field-year" type="text"></label>
+        </div>
+        <div class="field-row">
+          <label><span>Dimensions</span><input class="field-dimensions" type="text"></label>
+          <label><span>Medium</span><input class="field-medium" type="text"></label>
+        </div>
+        <div class="field-row field-row--bottom">
+          <label class="status-field"><span>Status</span><select class="field-status"><option value="available">Available</option><option value="sold">Sold</option></select></label>
+          <button class="delete-work-btn" type="button">Delete</button>
+        </div>
+      </div>
+    </article>
+  </template>
+
+  <script type="module" src="js/panel.js"></script>
+</body>
+</html>

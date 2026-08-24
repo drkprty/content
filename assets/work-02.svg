@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#f1f0ed"/>
+  <rect x="120" y="110" width="960" height="1280" fill="#e5e3de"/>
+  <text x="600" y="735" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="30" fill="#777">ARTWORK 02</text>
+  <text x="600" y="780" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="17" fill="#999">Replace this file with your painting</text>
+</svg>

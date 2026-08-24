@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Selected works by Eduardo Wolffel." />
+  <title>Eduardo Wolffel</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner aligned-to-grid">
+      <a class="artist-name" href="#works" aria-label="Eduardo Wolffel home">Eduardo Wolffel</a>
+
+      <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="site-menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+
+      <nav id="site-menu" class="site-menu" aria-label="Primary navigation">
+        <a class="nav-link is-active" href="#works">Works</a>
+        <a class="nav-link" href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <main>
+    <section id="works" class="works-section" aria-label="Works">
+      <div class="section-heading section-heading--key-only aligned-to-grid">
+        <div class="availability-key" aria-label="Artwork availability key">
+          <span><i class="status-dot available" aria-hidden="true"></i> Available</span>
+          <span><i class="status-dot sold" aria-hidden="true"></i> Sold</span>
+        </div>
+      </div>
+
+      <div id="works-grid" class="works-grid" aria-live="polite"></div>
+    </section>
+
+    <div class="grid-divider" aria-hidden="true"></div>
+
+    <section id="contact" class="contact-section" aria-labelledby="contact-title">
+      <div class="contact-inner aligned-to-grid">
+        <h2 id="contact-title">Contact</h2>
+        <a class="contact-email" href="mailto:hello@drkprty.uk">hello@drkprty.uk</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer-inner aligned-to-grid">
+      <span>Eduardo Wolffel</span>
+      <span id="footer-year"></span>
+    </div>
+  </footer>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>

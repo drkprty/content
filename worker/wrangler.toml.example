@@ -1,0 +1,15 @@
+name = "drkprty-content"
+main = "index.js"
+compatibility_date = "2026-08-24"
+
+[vars]
+GITHUB_REPO = "content"
+GITHUB_BRANCH = "main"
+CONTENT_ROOT = "drkprty/works"
+FIREBASE_WEB_API_KEY = "AIzaSyCBRjUBOrwyFfmze1U2guIvdPjdyh05z7A"
+ALLOWED_ORIGINS = "https://YOUR-DOMAIN.example"
+ADMIN_EMAILS = "YOUR-FIREBASE-ADMIN-EMAIL@example.com"
+
+# Set these as Worker secrets, NOT here:
+# GITHUB_TOKEN
+# GITHUB_OWNER may be a normal var if you prefer.
